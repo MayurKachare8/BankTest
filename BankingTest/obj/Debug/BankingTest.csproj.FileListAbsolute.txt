@@ -1,0 +1,8 @@
+D:\Dotnet\BankingTest\BankingTest\bin\Debug\BankingTest.exe.config
+D:\Dotnet\BankingTest\BankingTest\bin\Debug\BankingTest.exe
+D:\Dotnet\BankingTest\BankingTest\bin\Debug\BankingTest.pdb
+D:\Dotnet\BankingTest\BankingTest\obj\Debug\BankingTest.csproj.AssemblyReference.cache
+D:\Dotnet\BankingTest\BankingTest\obj\Debug\BankingTest.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\BankingTest\BankingTest\obj\Debug\BankingTest.csproj.CoreCompileInputs.cache
+D:\Dotnet\BankingTest\BankingTest\obj\Debug\BankingTest.exe
+D:\Dotnet\BankingTest\BankingTest\obj\Debug\BankingTest.pdb
